@@ -66,4 +66,4 @@ What you should learn from this project:
 ---
 
 ## Author
-* **Victor Hernandez** - [vik407](https://github.com/vik407)
+* **Kennedy Magoto** - (https://github.com/kmagoto)
